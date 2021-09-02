@@ -1,0 +1,19 @@
+{
+  "name": "file_scripting",
+  "version": "1.0.0",
+  "description": "file scripting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barded1998/Flie-Scrpting.git"
+  },
+  "author": "barded",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barded1998/Flie-Scrpting/issues"
+  },
+  "homepage": "https://github.com/barded1998/Flie-Scrpting#readme"
+}
